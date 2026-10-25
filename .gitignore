@@ -1,0 +1,7 @@
+# 生成物不入库：脚本现场复刻即可
+build/
+.xmake/
+*.diy
+*.dll
+*.so
+*.dylib

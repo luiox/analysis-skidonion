@@ -1,0 +1,5 @@
+target("diy_payload")
+    set_kind("shared")
+    set_languages("c++17")
+    set_basename("diy_payload")
+    add_files("src/*.cpp")
